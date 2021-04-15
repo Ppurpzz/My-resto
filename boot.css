@@ -156,8 +156,8 @@ h3.menu-item-title{
     .col-xs-6{
         position: relative;
         min-height: 1px;
-        padding-right: 15px;
-        padding-left: 15px;
+        /* padding-right: 15px;
+        padding-left: 15px; */
         float: left;
         width: 50%;
     }
@@ -165,14 +165,14 @@ h3.menu-item-title{
         position: relative;
         border: 2px solid #3f0c1f;
         overflow: hidden;
-        width: 140px !important;
-        height: 140px !important;
+        width: 200px !important;
+        height: 200px !important;
         margin: 0 auto 15px;
     }
   
     .category-tile img{
-        width: 140px;
-        height: 140px;
+        width: 200px;
+        height: 200px;
     }
 }
 
