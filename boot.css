@@ -165,14 +165,14 @@ h3.menu-item-title{
         position: relative;
         border: 2px solid #3f0c1f;
         overflow: hidden;
-        width: 200px !important;
-        height: 200px !important;
+        width: 250px !important;
+        height: 250px !important;
         margin: 0 auto 15px;
     }
   
     .category-tile img{
-        width: 200px;
-        height: 200px;
+        width: 250px !important;
+        height: 250px !important;
     }
 }
 
