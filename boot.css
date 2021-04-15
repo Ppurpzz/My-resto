@@ -245,7 +245,7 @@ h3.menu-item-title{
 #menu-tile:hover, #specials-tile:hover, #map-tile:hover{
     box-shadow: 0 1px 5px 1px #cccccc;
 }
-#menu-tile{
+/* #menu-tile{
     background: url("/crotchet7.jpg") no-repeat;
     background-position: center;
     
@@ -253,7 +253,7 @@ h3.menu-item-title{
 #specials-tile{
     background: url("/crotchet7.jpg") no-repeat;
    background-position: center;
-}
+} */
 
 #menu-tile span, #specials-tile span{
     position: absolute;
